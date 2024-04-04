@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zulqarnain Ali</h1>
 <h3 align="center">A passionate Data Scientist From Pakistan!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zulqarnainali01&label=Profile%20views&color=0e75b6&style=flat" alt="zulqarnainali01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zulqarnainalipk&label=Profile%20views&color=0e75b6&style=flat" alt="zulqarnainalipk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulqarnainali01" alt="zulqarnainali01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zulqarnainalipk" alt="zulqarnainalipk" /></a> </p>
 
 - 🔭 I’m currently working on **Data Science, Machine Learning problems on Kaggle**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Energetic and Cooperative Team**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zulqarnainali01?tab=repositories](https://github.com/zulqarnainali01?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/zulqarnainalipk?tab=repositories](https://github.com/zulqarnainalipk?tab=repositories)
 
 - 💬 Ask me about **Data Analysis, Visualization, Cleaning**
 
